@@ -23,7 +23,7 @@ const Header = () => {
             className="text-2xl font-serif text-[#FFFFFF] dark:text-earth-cream hover:opacity-80 transition-opacity duration-200"
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             aria-label="Hastakala - Scroll to top">
-            Hastakala
+            Hastakala Crafts
           </button>
         </div>
 
