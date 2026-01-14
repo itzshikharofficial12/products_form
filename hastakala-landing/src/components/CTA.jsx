@@ -6,7 +6,7 @@ const CTA = () => {
   };
 
   return (
-    <section className="py-24 px-4 bg-gradient-to-br ">
+    <section className="py-24 px-4 bg-[#F3E9DC]">
       <div className="max-w-4xl mx-auto text-center">
         {/* Heading */}
         <h2 className="text-3xl md:text-4xl font-bold text-[#2B2B2B] dark:text-[#FFFFFF] mb-6">

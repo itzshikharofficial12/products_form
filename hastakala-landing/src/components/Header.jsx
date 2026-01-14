@@ -15,12 +15,12 @@ const Header = () => {
   };
 
   return (
-    <header className="h-14 bg-[#F3E8D2] border-b border-gray-200 dark:border-gray-800 px-4 shadow-sm">
+    <header className="h-14 bg-[#713600] border-b border-gray-200 dark:border-gray-800 px-4 shadow-sm">
       <div className="max-w-6xl mx-auto h-full flex items-center justify-between">
         {/* Logo on the left */}
         <div className="flex items-center">
           <button 
-            className="text-2xl font-serif text-earth-brown dark:text-earth-cream hover:opacity-80 transition-opacity duration-200"
+            className="text-2xl font-serif text-[#FFFFFF] dark:text-earth-cream hover:opacity-80 transition-opacity duration-200"
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             aria-label="Hastakala - Scroll to top">
             Hastakala

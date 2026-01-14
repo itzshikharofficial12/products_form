@@ -17,7 +17,7 @@ const HowItWorks = () => {
   ];
 
   return (
-    <section className="py-20 px-4 bg-[#F3E8D2]">
+    <section className="py-20 px-4 bg-[#F3E9DC]">
       <div className="max-w-6xl mx-auto">
         {/* Section Heading */}
         <div className="text-center mb-16">

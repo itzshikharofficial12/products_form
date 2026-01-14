@@ -5,7 +5,7 @@ const Hero = () => {
   };
 
   return (
-    <section className="py-20 px-4 bg-[#F3E8D4]">
+    <section className="py-20 px-4 bg-[#F3E9DC]">
       <div className="max-w-6xl mx-auto">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left side - Image */}
